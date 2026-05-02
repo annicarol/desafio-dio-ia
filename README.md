@@ -17,12 +17,19 @@ O NotebookLM já importou alguns dados de Guia Completo de Investimento em Fundo
 
 Incluí os seguintes links:
 https://blog.inter.co/como-investir-em-fundo-imobiliario/
+
 https://www.sicredi.com.br/site/blog/investimentos/como-investir-fundos-imobiliarios-confira-dicas-comecar/
+
 https://www.c6bank.com.br/guia-fundos-imobiliarios/
+
 https://www.infomoney.com.br/guias/fundos-imobiliarios/
+
 https://www.youtube.com/watch?v=Cpovqq_v0ws
+
 https://www.youtube.com/watch?v=xQOWiQMzq3M
+
 https://www.gov.br/investidor/pt-br/investir/tipos-de-investimentos/fundos-de-investimentos-imobiliarios-fii
+
 https://fiis.com.br/
 
 ## Engenharia de Prompts e "Cicatrizes":
@@ -113,4 +120,17 @@ Aba Info: Espaço destinado à explicação dos indicadores que afetam a alocaç
 
 Preço Justo: Cálculo integrado que utiliza estimativas do Tesouro IPCA+ para ajudar a validar se o sinal de "comprar" está alinhado com o valuation do ativo
 
+## Atualizações
 
+**01/05/2026**
+
+Percebi que as fontes do meu notebook estavam trazendo dados apenas de uma planilha e resolvi adicionar mais links sobre a estratégia do Jumento:
+
+https://www.infomoney.com.br/onde-investir/estrategia-do-jumento-como-andre-bacci-usa-ciclos-de-juros-para-investir-em-fiis/
+https://www.youtube.com/watch?v=O62lzqSaS5c
+https://brfiis.com.br/artigos/a-estrategia-do-jumento-de-andre-bacci-o-metodo-burro-e-vencedor-para-investir-em-fiis
+https://www.youtube.com/watch?v=8GgJTl9jMfg
+https://www.infomoney.com.br/onde-investir/aposentadoria-com-dividendos-de-fiis-confira-dicas-de-andre-bacci-que-vive-de-renda-desde-os-33-anos/
+
+
+*
