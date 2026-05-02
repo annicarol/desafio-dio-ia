@@ -7,6 +7,8 @@ Fazendo um expert em fundos imobiliários.
 
 Sou uma estudante iniciante neste investimeto e queria muito conseguir bons frutos deles, então resolvi fazer um expert em fundos imobiliários que me ajude a escolher os melhores fundos e tirar os melhores resultados e rendimentos mensais.
 
+Nos meus estudos descobri a estratégia do jumento e meu notebook vai se especializar neste assunto.
+
 ## Curadoria de Fontes:
 
 Iniciei meu NotebookLM com o seguinte prompt:
