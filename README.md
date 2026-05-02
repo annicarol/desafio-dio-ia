@@ -11,6 +11,28 @@ Nos meus estudos descobri a "Estratégia do jumento" e meu notebook vai se espec
 
 ## Sobre a "estratégia do jumento"
 
+A **estratégia do jumento** é um método de investimento em Fundos Imobiliários (FIIs) focado na **simplicidade e eficiência** para o investidor. Criada pelo investidor **André Bassi**, ela busca automatizar a tomada de decisão para que o investidor mantenha a **constância e a tranquilidade** sem a necessidade de análises exaustivas a cada aporte.
+
+Abaixo, apresento um resumo estruturado dos pilares desta estratégia:
+
+1. Fundamentos Técnicos
+*   **Acompanhamento Macro:** A estratégia monitora a **taxa Selic** como principal indicador de mercado.
+*   **Cálculo de Médias:** O sistema baseia-se no cálculo de **médias curtas e longas** da taxa de juros para orientar a alocação de capital.
+*   **Rebalanceamento Dinâmico:** Dependendo do comportamento dessas médias, a estratégia ajusta automaticamente a distribuição ideal da carteira, podendo alterar pesos entre setores (como mudar de uma proporção de 70/30 para 50/50) conforme o cenário econômico se altera.
+
+2. Mecânica Operacional
+*   **Diferenciação de Ativos:** O método faz uma distinção forte entre as classes de fundos (como fundos de tijolo e papel), o que impacta diretamente no desempenho e na segurança da carteira.
+*   **Automação via Scripts:** A estratégia é geralmente executada através de **scripts ou algoritmos** dentro de ferramentas de controle (planilhas), onde o investidor insere o valor do aporte e o sistema processa os dados automaticamente.
+*   **Sinais de Operação Claros:** Após rodar os cálculos, a estratégia gera comandos objetivos para cada ativo da lista:
+    *   **"Comprar":** Quando o ativo está em um preço e peso favoráveis na carteira.
+    *   **"Aguardar":** Quando não é o momento ideal para aumentar a posição naquele papel.
+
+3. Filosofia e Objetivos
+*   **Foco na Simplicidade:** O nome "jumento" reforça a ideia de que o investimento não deve ser complexo para ser rentável.
+*   **Eficiência de Tempo:** Ao automatizar as alocações, o investidor evita a "paralisia por análise" e foca no que realmente importa: a disciplina de aportar todos os meses.
+*   **Impulsionamento de Resultados:** É considerada uma ferramenta eficaz para impulsionar o crescimento do patrimônio de forma organizada e equilibrada no longo prazo.
+
+
 ## Curadoria de Fontes:
 
 Iniciei meu NotebookLM com o seguinte prompt:
@@ -59,30 +81,6 @@ Explique como funciona a estratégia do jumento e como aplicar
 ## Prompts reusáveis:
 
 Quero que você faça o funcionamento desta estratégia do jumento e me indique quais os melhores fundos imobiliários para investir no dia de hoje
-
-## Resumos do assunto
-
-A **estratégia do jumento** é um método de investimento em Fundos Imobiliários (FIIs) focado na **simplicidade e eficiência** para o investidor. Criada pelo investidor **André Bassi**, ela busca automatizar a tomada de decisão para que o investidor mantenha a **constância e a tranquilidade** sem a necessidade de análises exaustivas a cada aporte.
-
-Abaixo, apresento um resumo estruturado dos pilares desta estratégia:
-
-1. Fundamentos Técnicos
-*   **Acompanhamento Macro:** A estratégia monitora a **taxa Selic** como principal indicador de mercado.
-*   **Cálculo de Médias:** O sistema baseia-se no cálculo de **médias curtas e longas** da taxa de juros para orientar a alocação de capital.
-*   **Rebalanceamento Dinâmico:** Dependendo do comportamento dessas médias, a estratégia ajusta automaticamente a distribuição ideal da carteira, podendo alterar pesos entre setores (como mudar de uma proporção de 70/30 para 50/50) conforme o cenário econômico se altera.
-
-2. Mecânica Operacional
-*   **Diferenciação de Ativos:** O método faz uma distinção forte entre as classes de fundos (como fundos de tijolo e papel), o que impacta diretamente no desempenho e na segurança da carteira.
-*   **Automação via Scripts:** A estratégia é geralmente executada através de **scripts ou algoritmos** dentro de ferramentas de controle (planilhas), onde o investidor insere o valor do aporte e o sistema processa os dados automaticamente.
-*   **Sinais de Operação Claros:** Após rodar os cálculos, a estratégia gera comandos objetivos para cada ativo da lista:
-    *   **"Comprar":** Quando o ativo está em um preço e peso favoráveis na carteira.
-    *   **"Aguardar":** Quando não é o momento ideal para aumentar a posição naquele papel.
-
-3. Filosofia e Objetivos
-*   **Foco na Simplicidade:** O nome "jumento" reforça a ideia de que o investimento não deve ser complexo para ser rentável.
-*   **Eficiência de Tempo:** Ao automatizar as alocações, o investidor evita a "paralisia por análise" e foca no que realmente importa: a disciplina de aportar todos os meses.
-*   **Impulsionamento de Resultados:** É considerada uma ferramenta eficaz para impulsionar o crescimento do patrimônio de forma organizada e equilibrada no longo prazo.
-
 
 ## Glossário
 
