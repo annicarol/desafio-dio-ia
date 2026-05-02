@@ -7,7 +7,9 @@ Fazendo um expert em fundos imobiliários.
 
 Sou uma estudante iniciante neste investimeto e queria muito conseguir bons frutos deles, então resolvi fazer um expert em fundos imobiliários que me ajude a escolher os melhores fundos e tirar os melhores resultados e rendimentos mensais.
 
-Nos meus estudos descobri a estratégia do jumento e meu notebook vai se especializar neste assunto.
+Nos meus estudos descobri a "Estratégia do jumento" e meu notebook vai se especializar neste assunto.
+
+## Sobre a "estratégia do jumento"
 
 ## Curadoria de Fontes:
 
@@ -133,6 +135,6 @@ https://www.youtube.com/watch?v=O62lzqSaS5c
 https://brfiis.com.br/artigos/a-estrategia-do-jumento-de-andre-bacci-o-metodo-burro-e-vencedor-para-investir-em-fiis
 https://www.youtube.com/watch?v=8GgJTl9jMfg
 https://www.infomoney.com.br/onde-investir/aposentadoria-com-dividendos-de-fiis-confira-dicas-de-andre-bacci-que-vive-de-renda-desde-os-33-anos/
+https://www.youtube.com/watch?v=bw0n38RQQvE
 
 
-*
