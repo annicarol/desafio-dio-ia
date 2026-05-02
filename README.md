@@ -129,10 +129,15 @@ Preço Justo: Cálculo integrado que utiliza estimativas do Tesouro IPCA+ para a
 Percebi que as fontes do meu notebook estavam trazendo dados apenas de uma planilha e resolvi adicionar mais links sobre a estratégia do Jumento:
 
 https://www.infomoney.com.br/onde-investir/estrategia-do-jumento-como-andre-bacci-usa-ciclos-de-juros-para-investir-em-fiis/
+
 https://www.youtube.com/watch?v=O62lzqSaS5c
+
 https://brfiis.com.br/artigos/a-estrategia-do-jumento-de-andre-bacci-o-metodo-burro-e-vencedor-para-investir-em-fiis
+
 https://www.youtube.com/watch?v=8GgJTl9jMfg
+
 https://www.infomoney.com.br/onde-investir/aposentadoria-com-dividendos-de-fiis-confira-dicas-de-andre-bacci-que-vive-de-renda-desde-os-33-anos/
+
 https://www.youtube.com/watch?v=bw0n38RQQvE
 
 
